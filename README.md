@@ -1,4 +1,4 @@
-# GiftLink - Capstone Project
+# GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API
 Written by Brian McCarthy
 
 ## Introduction
@@ -36,8 +36,9 @@ As part of the project's various assignments, you compiled your implementation a
 
 ## File Structure
 - `/src`: Frontend React components and context
-- `/server`: Backend Express server, routes, and database configuration
+- `/server`: Backend Express server routes, and database configuration
 - `/server/routes`: API endpoints for gifts, authentication, and search
 - `/server/db.js`: MongoDB connection logic
-- `server.js`: Main entry point for the backend
+- `app.js`: Express application setup and middleware
+- `index.js`: Main entry point for the server
 - `package.json`: Project dependencies and scripts
