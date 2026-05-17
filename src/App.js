@@ -1,5 +1,5 @@
 /* written by Brian McCarthy */
-import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar';
 import LandingPage from './components/LandingPage/LandingPage';
 import MainPage from './components/MainPage/MainPage';
@@ -12,7 +12,7 @@ import { AuthProvider } from './context/AuthContext';
 export default function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API">
         <div className="min-h-screen bg-slate-50 selection:bg-blue-100 selection:text-blue-900">
           <Navbar />
           <Routes>
