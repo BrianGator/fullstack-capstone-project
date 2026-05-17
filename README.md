@@ -1,6 +1,27 @@
 # GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API
 Written by Brian McCarthy
 
+## Certification
+**Capstone Project for IBM Full-Stack JavaScript Developer Certification**
+[View Accomplishment](https://www.coursera.org/account/accomplishments/specialization/TCMT9VQG11D0)
+
+### 12 Course Certificates Completed
+* Introduction to Software Engineering
+* Introduction to HTML, CSS, & JavaScript
+* Getting Started with Git and GitHub
+* JavaScript Programming Essentials
+* Developing Front-End Apps with React
+* Developing Back-End Apps with Node.js and Express
+* Get Started with Cloud Native, DevOps, Agile, and NoSQL
+* Introduction to Containers w/ Docker, Kubernetes & OpenShift
+* Application Development using Microservices and Serverless
+* Node.js & MongoDB: Developing Back-end Database Applications
+* JavaScript Full Stack Capstone Project
+* Software Developer Career Guide and Interview Preparation
+
+### Skills Gained
+Ajax, Application Deployment, Azure DevOps, CI/CD, Cloud Deployment, Cloud-Native Computing, Database Design, Git (Version Control System), Istio, JavaScript, Kubernetes, Node.JS
+
 ## Introduction
 GiftLink is a full-stack web application designed to connect users who want to give away household items they no longer needed with users who preferred to recycle or find free items instead of purchasing new ones. This project promotes sustainability and community sharing.
 
