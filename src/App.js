@@ -12,7 +12,7 @@ import { AuthProvider } from './context/AuthContext';
 export default function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/GiftLink-Capstone-Full-Stack-MongoDB-JS-React-REST-API">
         <div className="min-h-screen bg-slate-50 selection:bg-blue-100 selection:text-blue-900">
           <Navbar />
           <Routes>
